@@ -13,8 +13,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=subathranj&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subathranj)
-[![Email](https://img.shields.io/badge/Email-Contact-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranj@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/subathran07)
+[![Email](https://img.shields.io/badge/Email-Contact-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranjayaraman05@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-16a34a?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link)
 
 </div>
