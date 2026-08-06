@@ -12,10 +12,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=subathranj&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/subathran07)
+![Profile Views](https://komarev.com/ghpvc/?username=subathran07&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subathran07)
 [![Email](https://img.shields.io/badge/Email-Contact-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranjayaraman05@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-16a34a?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![GitHub](https://img.shields.io/badge/GitHub-subathran07-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathran07)
 
 </div>
 
@@ -147,24 +148,24 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 ## 🔬 Cybersecurity Home Lab Projects
 
-> All projects are self-built lab environments designed to simulate real SOC workflows. Each project includes written documentation and findings.
+> These are self-built lab environments designed to simulate real SOC workflows. Each will include a dedicated repo with full write-ups and findings as it's completed — **status badges below reflect current progress.**
 
 <br/>
 
 ---
 
 ### 🔵 SOC Alert Investigation Lab
-[![View Project](https://img.shields.io/badge/View-Project-00f5d4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/subathranj/soc-alert-investigation-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Simulate an L1 SOC analyst workflow — receiving alerts, triaging severity, investigating logs, and documenting findings using a structured incident response template.
 
 **Tools Used:** Splunk Free · Windows Event Logs · Sysmon · VirusTotal
 
 **Key Activities:**
-- Ingested Windows Security and Sysmon logs into Splunk and created basic SPL searches to surface suspicious events
-- Practised alert triage by categorising simulated events as True Positive, False Positive, or Benign
-- Investigated failed login sequences (Event ID 4625) and correlated with successful logins (4624) to identify potential brute-force patterns
-- Documented each alert investigation using a structured ticket format (Timeline → IOCs → Classification → Recommended Action)
+- Ingest Windows Security and Sysmon logs into Splunk and create SPL searches to surface suspicious events
+- Practice alert triage by categorising simulated events as True Positive, False Positive, or Benign
+- Investigate failed login sequences (Event ID 4625) and correlate with successful logins (4624) to identify potential brute-force patterns
+- Document each alert investigation using a structured ticket format (Timeline → IOCs → Classification → Recommended Action)
 
 **Skills Demonstrated:** Alert triage · Log analysis · SPL basics · Incident documentation · Security monitoring
 
@@ -173,36 +174,36 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 ---
 
 ### 🟢 Wazuh Home Lab
-[![View Project](https://img.shields.io/badge/View-Project-16a34a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathranj/wazuh-home-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Deploy a functional open-source SIEM/XDR using Wazuh to understand agent-based monitoring, rule management, and security alerting in a self-hosted environment.
 
 **Tools Used:** Wazuh Manager · Wazuh Agent (Windows) · Ubuntu Server · OpenSearch Dashboard
 
 **Key Activities:**
-- Set up Wazuh Manager on an Ubuntu VM and enrolled a Windows 10 endpoint as a monitored agent
-- Enabled File Integrity Monitoring (FIM) and observed alerts for file creation and modification events
-- Triggered and detected a simulated failed authentication scenario and reviewed the resulting Wazuh alert
-- Explored built-in rules and modified rule thresholds to reduce noise from known-good processes
-- Reviewed the OpenSearch dashboard to correlate agent events across time
+- Set up Wazuh Manager on an Ubuntu VM and enroll a Windows 10 endpoint as a monitored agent
+- Enable File Integrity Monitoring (FIM) and observe alerts for file creation and modification events
+- Trigger and detect a simulated failed authentication scenario and review the resulting Wazuh alert
+- Explore built-in rules and modify rule thresholds to reduce noise from known-good processes
+- Review the OpenSearch dashboard to correlate agent events across time
 
 **Skills Demonstrated:** SIEM deployment · Agent configuration · FIM · Rule tuning · Security alerting · Log review
 
 ---
 
 ### 🟣 Active Directory Security Lab
-[![View Project](https://img.shields.io/badge/View-Project-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathranj/active-directory-security-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Build a small Windows Server Active Directory environment to study authentication event logs, user account behaviour, and detection of common AD-based attack patterns.
 
 **Tools Used:** Windows Server 2019 · Windows 10 · Event Viewer · Sysmon · Splunk (log forwarding)
 
 **Key Activities:**
-- Configured a domain controller and joined a Windows 10 workstation to the domain
-- Installed and configured Sysmon with a community config (SwiftOnSecurity) to enrich endpoint telemetry
-- Simulated account lockouts, privilege changes, and new user creation — then reviewed the generated Event IDs (4720, 4728, 4740, 4768, 4776)
-- Forwarded Windows Security logs to Splunk and wrote SPL queries to detect account lockout spikes
-- Documented findings in a structured lab report linking events to corresponding MITRE techniques
+- Configure a domain controller and join a Windows 10 workstation to the domain
+- Install and configure Sysmon with a community config (SwiftOnSecurity) to enrich endpoint telemetry
+- Simulate account lockouts, privilege changes, and new user creation — then review the generated Event IDs (4720, 4728, 4740, 4768, 4776)
+- Forward Windows Security logs to Splunk and write SPL queries to detect account lockout spikes
+- Document findings in a structured lab report linking events to corresponding MITRE techniques
 
 **Skills Demonstrated:** Windows Event Log analysis · Active Directory security · Sysmon configuration · Log forwarding · Threat detection
 
@@ -211,35 +212,35 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 ---
 
 ### 🔵 Splunk Detection Lab
-[![View Project](https://img.shields.io/badge/View-Project-0284c7?style=for-the-badge&logo=splunk&logoColor=white)](https://github.com/subathranj/splunk-detection-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Use Splunk to ingest, search, and visualise security log data — practising the core skills an L1 SOC analyst uses daily.
 
 **Tools Used:** Splunk Free (local install) · Boss of the SOC (BOTS) dataset · Sysmon logs
 
 **Key Activities:**
-- Installed Splunk on a local VM and ingested sample security datasets including BOTS v1
-- Wrote SPL searches to identify reconnaissance activity, unusual process creation, and suspicious network connections
-- Built a basic security dashboard with panels for failed logins, process events, and network connections by destination
-- Practised using `stats`, `timechart`, `eval`, and `lookup` commands to build detection logic
-- Attempted selected BOTS challenge questions and documented the investigation process
+- Install Splunk on a local VM and ingest sample security datasets including BOTS v1
+- Write SPL searches to identify reconnaissance activity, unusual process creation, and suspicious network connections
+- Build a basic security dashboard with panels for failed logins, process events, and network connections by destination
+- Practice using `stats`, `timechart`, `eval`, and `lookup` commands to build detection logic
+- Attempt selected BOTS challenge questions and document the investigation process
 
 **Skills Demonstrated:** SPL querying · Dashboard creation · Alert configuration · Log analysis · SIEM operations
 
 ---
 
 ### 🟡 Network Traffic Analysis Lab
-[![View Project](https://img.shields.io/badge/View-Project-ca8a04?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/subathranj/network-traffic-analysis-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Develop practical packet analysis skills by examining real and simulated network captures to identify anomalous traffic patterns.
 
 **Tools Used:** Wireshark · Nmap · tcpdump · Malware Traffic Analysis PCAP samples
 
 **Key Activities:**
-- Captured and analysed local network traffic using Wireshark to understand normal baseline behaviour
-- Examined publicly available PCAP samples from Malware Traffic Analysis to identify C2 communication patterns, DNS anomalies, and unusual HTTP requests
-- Used Nmap for host discovery and port scanning in an isolated lab network, then captured the traffic and reviewed the resulting packets in Wireshark
-- Documented findings for each PCAP including protocol breakdowns, suspicious IPs, and any identifiable IOCs
+- Capture and analyse local network traffic using Wireshark to understand normal baseline behaviour
+- Examine publicly available PCAP samples from Malware Traffic Analysis to identify C2 communication patterns, DNS anomalies, and unusual HTTP requests
+- Use Nmap for host discovery and port scanning in an isolated lab network, then capture the traffic and review the resulting packets in Wireshark
+- Document findings for each PCAP including protocol breakdowns, suspicious IPs, and any identifiable IOCs
 
 **Skills Demonstrated:** Packet analysis · Protocol analysis · IOC identification · Network security monitoring · Traffic baseline understanding
 
@@ -248,18 +249,18 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 ---
 
 ### 🟠 Threat Hunting Lab
-[![View Project](https://img.shields.io/badge/View-Project-ea580c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathranj/threat-hunting-lab)
+`🚧 Planned — repo coming soon`
 
 **Objective:** Practise structured threat hunting methodology by forming hypotheses, querying log data, and mapping findings to the MITRE ATT&CK framework.
 
 **Tools Used:** Splunk · Sysmon · Windows Event Logs · MITRE ATT&CK Navigator
 
 **Key Activities:**
-- Studied the hypothesis-driven hunting process and applied it to a simulated Windows environment
-- Formed a hunt hypothesis around suspicious PowerShell execution (T1059.001) and queried Sysmon Event ID 1 (Process Create) logs in Splunk
-- Identified encoded PowerShell commands in process arguments and documented them as potential IOCs
-- Used MITRE ATT&CK Navigator to annotate identified techniques and build a basic hunt playbook
-- Wrote up findings in a hunt report format: Hypothesis → Data Sources → Query → Findings → Recommendations
+- Study the hypothesis-driven hunting process and apply it to a simulated Windows environment
+- Form a hunt hypothesis around suspicious PowerShell execution (T1059.001) and query Sysmon Event ID 1 (Process Create) logs in Splunk
+- Identify encoded PowerShell commands in process arguments and document them as potential IOCs
+- Use MITRE ATT&CK Navigator to annotate identified techniques and build a basic hunt playbook
+- Write up findings in a hunt report format: Hypothesis → Data Sources → Query → Findings → Recommendations
 
 **Skills Demonstrated:** Hypothesis-driven hunting · SPL querying · MITRE ATT&CK mapping · Threat intelligence · IOC documentation
 
@@ -279,11 +280,11 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 | Certificate | Completed | Credential |
 |---|---|---|
-| Introduction to Cybersecurity | *(add date)* | [View Certificate](#) |
-| Endpoint Security | *(add date)* | [View Certificate](#) |
-| Cyber Threat Management | *(add date)* | [View Certificate](#) |
-| Network Defense | *(add date)* | [View Certificate](#) |
-| Ethical Hacker | *(add date)* | [View Certificate](#) |
+| Introduction to Cybersecurity | *(add date)* | *(add link)* |
+| Endpoint Security | *(add date)* | *(add link)* |
+| Cyber Threat Management | *(add date)* | *(add link)* |
+| Network Defense | *(add date)* | *(add link)* |
+| Ethical Hacker | *(add date)* | *(add link)* |
 
 <br/>
 
@@ -291,10 +292,10 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 | Certificate | Completed | Credential |
 |---|---|---|
-| Advanced Cyber Security and Ethical Hacking | *(add date)* | [View Certificate](#) |
-| Cyber Security & Ethical Hacking for Beginners | *(add date)* | [View Certificate](#) |
-| Ethical Hacking | *(add date)* | [View Certificate](#) |
-| Dark Web | *(add date)* | [View Certificate](#) |
+| Advanced Cyber Security and Ethical Hacking | *(add date)* | *(add link)* |
+| Cyber Security & Ethical Hacking for Beginners | *(add date)* | *(add link)* |
+| Ethical Hacking | *(add date)* | *(add link)* |
+| Dark Web | *(add date)* | *(add link)* |
 
 <br/>
 
@@ -302,7 +303,7 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 | Certificate | Completed | Credential |
 |---|---|---|
-| ISO/IEC 27001:2022 – Information Security Controls Explained | *(add date)* | [View Certificate](#) |
+| ISO/IEC 27001:2022 – Information Security Controls Explained | *(add date)* | *(add link)* |
 
 <br/>
 
@@ -346,16 +347,16 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=subathranj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=0284c7&text_color=7dd3fc&border_radius=10"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subathranj&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=7dd3fc&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=subathran07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=0284c7&text_color=7dd3fc&border_radius=10"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subathran07&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=7dd3fc&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=subathranj&theme=algolia&hide_border=true&background=0d1117&stroke=00f5d4&ring=0284c7&fire=06b6d4&currStreakNum=00f5d4&sideNums=7dd3fc&currStreakLabel=0284c7&sideLabels=7dd3fc&dates=4a5568&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subathran07&theme=algolia&hide_border=true&background=0d1117&stroke=00f5d4&ring=0284c7&fire=06b6d4&currStreakNum=00f5d4&sideNums=7dd3fc&currStreakLabel=0284c7&sideLabels=7dd3fc&dates=4a5568&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subathranj&bg_color=0d1117&color=00f5d4&line=0284c7&point=06b6d4&area=true&area_color=0d4f6b&hide_border=true&border_radius=10&title_color=00f5d4" alt="Contribution Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subathran07&bg_color=0d1117&color=00f5d4&line=0284c7&point=06b6d4&area=true&area_color=0d4f6b&hide_border=true&border_radius=10&title_color=00f5d4" alt="Contribution Graph" width="95%"/>
 
 </div>
 
@@ -376,13 +377,13 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subathran_J-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subathranj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subathran_J-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subathran07)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-subathranj%40email.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranj@email.com)
+[![Email](https://img.shields.io/badge/Email-subathranjayaraman05%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranjayaraman05@gmail.com)
 &nbsp;
 [![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-16a34a?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-subathranj-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathranj)
+[![GitHub](https://img.shields.io/badge/GitHub-subathran07-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathran07)
 
 </div>
 
