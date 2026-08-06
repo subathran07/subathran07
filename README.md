@@ -381,8 +381,7 @@ I hold certifications from **Cisco Networking Academy**, **GUVI**, and **Udemy**
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-subathranjayaraman05%40gmail.com-d93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subathranjayaraman05@gmail.com)
 &nbsp;
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-16a34a?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/your-resume-link)
-&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-16a34a?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1sNqIXZ3o07MNx1AlF5ufAMvCul-_cxaj/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-subathran07-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subathran07)
 
 </div>
