@@ -152,6 +152,8 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 | Cyber Threat Management | 24 Apr 2025 |
 | Network Defense | 24 Apr 2025 |
 | Ethical Hacker | 24 Apr 2025 |
+
+[![View Certificates](https://img.shields.io/badge/📁_View_All_Certificates-Google_Drive-0A192F?style=flat-square&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/185MTli5JbCJImr-YvHStNBtT9q3dEkrZ?usp=sharing)
 </details>
 
 <details>
@@ -164,6 +166,8 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 | Advanced Cyber Security and Ethical Hacking | 17 Apr 2025 |
 | Dark Web | 19 Apr 2025 |
 | Ethical Hacking | 03 Jul 2025 |
+
+[![View Certificates](https://img.shields.io/badge/📁_View_All_Certificates-Google_Drive-0A192F?style=flat-square&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1mnX4X6twLSBBotv2lj9CCfRrtxEsJPU_?usp=sharing)
 </details>
 
 <details>
@@ -173,6 +177,8 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 | Certificate | Completed |
 |---|---|
 | ISO/IEC 27001:2022 – Information Security Controls Explained (15 hrs) | 24 Jul 2025 |
+
+[![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=flat-square&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1XY6ZelzBpImYPzRHHzbbRJoPfFDciukk?usp=sharing)
 </details>
 
 <details>
@@ -181,6 +187,8 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 
 **Certified SOC Analyst v2 — Certificate of Attendance** (not a certification exam pass)
 Completed at Redteam Hacker Academy, an EC-Council accredited training center — June 2026.
+
+[![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=flat-square&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1btVYe67syK1elsQDu6AfXZl_P16WTUiR?usp=sharing)
 </details>
 
 <br/>
