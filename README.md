@@ -95,47 +95,29 @@ Cybersecurity student focused on Security Operations and Blue Team fundamentals.
 
 > Self-built labs simulating SOC workflows. Repos and screenshots are being finalized and will be linked here as they go live — nothing below is claimed complete until it has a working repo link.
 
-<details>
-<summary><b>🔵 SOC Alert Investigation Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🔵 SOC Alert Investigation Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 Splunk-based alert triage workflow — ingesting Windows Security/Sysmon logs, investigating failed-login patterns (Event ID 4625/4624), and documenting findings in a structured IR ticket format.
-</details>
 
-<details>
-<summary><b>🟢 Wazuh Home Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🟢 Wazuh Home Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 Self-hosted Wazuh SIEM/XDR deployment — agent enrollment, File Integrity Monitoring, and rule tuning to reduce noise from known-good processes.
-</details>
 
-<details>
-<summary><b>🟣 Active Directory Security Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🟣 Active Directory Security Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 Windows Server AD environment for studying authentication events (4720, 4728, 4740, 4768, 4776) and detecting account lockout/privilege-change patterns via Splunk.
-</details>
 
-<details>
-<summary><b>🔵 Splunk Detection Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🔵 Splunk Detection Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 SPL-driven detection dashboard built on the Boss of the SOC (BOTS) dataset — reconnaissance activity, unusual process creation, and network connection panels.
-</details>
 
-<details>
-<summary><b>🟡 Network Traffic Analysis Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🟡 Network Traffic Analysis Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 Wireshark/Nmap packet analysis using Malware-Traffic-Analysis PCAP samples to identify C2 patterns, DNS anomalies, and suspicious HTTP requests.
-</details>
 
-<details>
-<summary><b>🟠 Threat Hunting Lab</b> &nbsp; <img src="https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F"/></summary>
-<br/>
+### 🟠 Threat Hunting Lab &nbsp; ![status](https://img.shields.io/badge/status-planned-8892B0?style=for-the-badge&labelColor=0A192F)
 
 Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmon Event ID 1, mapped in MITRE ATT&CK Navigator.
-</details>
 
 <br/>
 
@@ -147,9 +129,7 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 
 ## 🏅 Certifications
 
-<details>
-<summary><b>🔵 Cisco Networking Academy</b> — 5 courses</summary>
-<br/>
+### 🔵 Cisco Networking Academy — 5 courses
 
 | Certificate | Completed |
 |---|---|
@@ -160,11 +140,8 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 | Ethical Hacker | 24 Apr 2025 |
 
 [![View Certificates](https://img.shields.io/badge/📁_View_All_Certificates-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/185MTli5JbCJImr-YvHStNBtT9q3dEkrZ?usp=sharing)
-</details>
 
-<details>
-<summary><b>🟢 GUVI (HCL)</b> — 4 courses</summary>
-<br/>
+### 🟢 GUVI (HCL) — 4 courses
 
 | Certificate | Completed |
 |---|---|
@@ -174,28 +151,21 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 | Ethical Hacking | 03 Jul 2025 |
 
 [![View Certificates](https://img.shields.io/badge/📁_View_All_Certificates-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1mnX4X6twLSBBotv2lj9CCfRrtxEsJPU_?usp=sharing)
-</details>
 
-<details>
-<summary><b>🟠 Udemy</b></summary>
-<br/>
+### 🟠 Udemy
 
 | Certificate | Completed |
 |---|---|
 | ISO/IEC 27001:2022 – Information Security Controls Explained (15 hrs) | 24 Jul 2025 |
 
 [![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1XY6ZelzBpImYPzRHHzbbRJoPfFDciukk?usp=sharing)
-</details>
 
-<details>
-<summary><b>🔴 EC-Council — CSA v2 Training</b></summary>
-<br/>
+### 🔴 EC-Council — CSA v2 Training
 
 **Certified SOC Analyst v2 — Certificate of Attendance** (not a certification exam pass)
 Completed at Redteam Hacker Academy, an EC-Council accredited training center — June 2026.
 
 [![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1btVYe67syK1elsQDu6AfXZl_P16WTUiR?usp=sharing)
-</details>
 
 <br/>
 
@@ -203,9 +173,7 @@ Completed at Redteam Hacker Academy, an EC-Council accredited training center �
 <!--                   CURRENT LEARNING FOCUS                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<details>
-<summary><b>📚 Currently studying (optional)</b></summary>
-<br/>
+**📚 Currently studying (optional)**
 
 | Area | Focus |
 |---|---|
@@ -213,7 +181,6 @@ Completed at Redteam Hacker Academy, an EC-Council accredited training center �
 | Wazuh | Agent management, FIM, alert tuning |
 | Incident Response | NIST SP 800-61 lifecycle |
 | Active Directory | Auth event IDs, AD hardening basics |
-</details>
 
 <br/>
 
