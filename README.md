@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=00F5A0&center=true&vCenter=true&width=680&lines=SOC+Analyst+L1+%7C+Cybersecurity+Student;Splunk+%C2%B7+Wazuh+%C2%B7+Windows+Event+Logs;Threat+Detection+%C2%B7+Incident+Response;Seeking+SOC+Analyst+%2F+Internship+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=00F5A0&center=true&vCenter=true&width=680&lines=EC-Council+Certified+SOC+Analyst+%28CSA%29;Splunk+%C2%B7+Windows+Event+Logs+%C2%B7+Sysmon;Threat+Detection+%C2%B7+Incident+Response;Seeking+SOC+Analyst+L1+Roles)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## 🎯 About Me
 
-Cybersecurity student focused on Security Operations and Blue Team fundamentals. I build hands-on home labs with **Splunk**, **Wazuh**, and Windows environments to practice log analysis, alert triage, and MITRE ATT&CK-based investigation — and completed a Cybersecurity Internship at **Sunoida Solutions** applying these fundamentals in a live team environment.
+Cybersecurity graduate (B.E., 2026) and **EC-Council Certified SOC Analyst (CSA)** focused on Security Operations and Blue Team fundamentals. I practice SIEM-driven threat detection, log analysis, alert triage, and MITRE ATT&CK-based investigation using **Splunk**, **Sysmon**, Windows Event Logs, and Wireshark. I also completed a cybersecurity internship at **Sunoida Solutions** and built independent SOC detection projects.
 
 ![Role](https://img.shields.io/badge/🎯_Target-SOC_Analyst_L1-00F5A0?style=for-the-badge&labelColor=0A192F)
 ![Location](https://img.shields.io/badge/📍_Location-India_(Remote%2FHybrid)-22D9F2?style=for-the-badge&labelColor=0A192F)
@@ -160,12 +160,20 @@ Hypothesis-driven hunt for suspicious PowerShell execution (T1059.001) via Sysmo
 
 [![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1XY6ZelzBpImYPzRHHzbbRJoPfFDciukk?usp=sharing)
 
+### 🟢 EC-Council — Certified SOC Analyst (CSA)
+
+**Credential earned** · Exam score: **85%** · Issued: **23 October 2026**  
+Certificate number: `ECC1645083297`  
+Credential validity is stated by EC-Council as three years from the initial certification date, subject to continuing professional education (CPE) requirements and the annual CE fee. Check the EC-Council credential portal for the exact expiry/renewal details before relying on a date.
+
+> Add the official credential verification URL here if EC-Council provides one. No verification URL was included in the supplied details.
+
 ### 🔴 EC-Council — CSA v2 Training
 
-**Certified SOC Analyst v2 — Certificate of Attendance** (not a certification exam pass)
-Completed at Redteam Hacker Academy, an EC-Council accredited training center — June 2026.
+**Certified SOC Analyst v2 — Certificate of Attendance**  
+Completed at Redteam Hacker Academy in June 2026. This is the training attendance certificate, separate from the CSA certification exam credential above.
 
-[![View Certificate](https://img.shields.io/badge/📁_View_Certificate-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1btVYe67syK1elsQDu6AfXZl_P16WTUiR?usp=sharing)
+[![View Training Attendance Certificate](https://img.shields.io/badge/📁_View_Training_Certificate-Google_Drive-0A192F?style=for-the-badge&labelColor=0A192F&color=22D9F2)](https://drive.google.com/drive/folders/1btVYe67syK1elsQDu6AfXZl_P16WTUiR?usp=sharing)
 
 <br/>
 
